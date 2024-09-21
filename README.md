@@ -1,30 +1,30 @@
 FirstScreen 
 
-![image](https://github.com/user-attachments/assets/79440d4c-74c5-4bb6-8c99-255de5f85ba0)
+![image](https://github.com/user-attachments/assets/e73394d9-25b9-4c1a-be20-ec0cf157aa91)
 
 1_a
 
-![image](https://github.com/user-attachments/assets/b2851b63-d865-4816-9631-36813bd9400f)
+![image](https://github.com/user-attachments/assets/8747d570-6228-4467-8c52-4b8578532b32)
 
 1_b
 
-![image](https://github.com/user-attachments/assets/a15d593a-a928-49c7-b481-7017b0764d44)
+![image](https://github.com/user-attachments/assets/5998ef40-f056-4614-b9f5-9453b2f18454)
 
 1_c
 
-![image](https://github.com/user-attachments/assets/fe1ea2bd-462a-4b4d-926d-7ad03c8fdd4c)
+![image](https://github.com/user-attachments/assets/959ec392-b55d-4ebb-b9a3-569290cf4965)
 
 1_d
 
-![image](https://github.com/user-attachments/assets/4e61dde5-b6e9-4440-9623-f013ef53bbe4)
+![image](https://github.com/user-attachments/assets/019416ac-5073-4174-99ab-211ed94a164a)
 
 1_e
 
-![image](https://github.com/user-attachments/assets/c9487a7c-68f7-4df9-8fd4-3b8a3bfd5c61)
+
 
 2_a
 
-![image](https://github.com/user-attachments/assets/c93525c2-b17b-4b18-886e-e87afca6c561)
+
 
 XMEye
 
