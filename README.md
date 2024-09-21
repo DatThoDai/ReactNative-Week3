@@ -16,15 +16,16 @@ FirstScreen
 
 1_d
 
-![image](https://github.com/user-attachments/assets/019416ac-5073-4174-99ab-211ed94a164a)
+![image](https://github.com/user-attachments/assets/4cbe4230-4546-4a36-bc42-bf4b1b43f9b1)
 
 1_e
 
+![image](https://github.com/user-attachments/assets/199cf5b3-1aa4-42ee-a807-d6df81066176)
 
 
 2_a
 
-
+![image](https://github.com/user-attachments/assets/4c346e45-d55f-4568-bb4a-0a5475fdae56)
 
 XMEye
 
